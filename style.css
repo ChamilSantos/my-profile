@@ -1,0 +1,82 @@
+
+h1{ font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: rgb(36, 24, 97);
+}
+
+h2{ font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color:#EEF1FF;
+}
+
+.border{
+    border-radius: 50%;
+    height: 250px;
+    width: 250px;
+    object-fit: cover;
+   
+}
+
+.centre2{
+
+  padding: 4.5em;
+  width: 50em;
+  height: 22em;
+  background-color: #ffffff;
+  margin: 0 auto;
+  border-radius: 15px;
+  text-align: center;
+box-shadow: 3px 6px 10px rgba(2, 2, 2, 0.204);
+  }
+
+.centrebio{
+    text-align: center;
+    padding: 5em;
+    width: 30em;
+    height: 20em;
+    background-color: #ffffff;
+    border-radius: 15px;
+margin:  0 auto;
+box-shadow: 3px 6px 10px rgba(255, 255, 255, 0.852);
+}
+
+.lesphotos{
+    text-align: center;
+
+}
+
+#photo1centre{
+    border-radius: 100%;
+}
+.titre{
+    padding: 2,5em;
+  width: 30em;
+  height: 0,5em;
+  background-color: #ffffff;
+  margin: 0 auto;
+  border-radius: 5px;
+  text-align: center;
+box-shadow: 3px 6px 10px rgba(2, 2, 2, 0.204);
+}
+#ft-top{
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -2;
+    width: 100vw;
+    height: 100vh;
+}
+
+#triangle{
+    position: absolute;
+    top: 655;
+    left: 0;
+    z-index: -1;
+    width: 100vw;
+    height: 300vh;
+}
